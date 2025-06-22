@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+fastapi
+uvicorn[standard]
+pydantic
+gradio
+requests
+transformers
+torch
+sentencepiece
+accelerate
+faiss-cpu
